@@ -5,7 +5,7 @@ This test is part of the hiring process for Data Engineers @ Raízen Analytics.
 
 Our team is responsible for all advanced analytics, machine learning and data science initiatives in every business at Raízen.
 
-We will always have room for talented and skilled data engineering professionals. If you are interested in joining our team, complete this test and send the repository's link to `rudison dot lacerda at raizen dot com` or apply for an opening in our [portal](https://vagas.raizen.com.br).
+We will always have room for talented and skilled data engineering professionals. If you are interested in joining our team, complete this test and send the repository's link to `rudison dot lacerda at raizen dot com` or apply for a job opening directly on our [career opportunities page](https://genteraizen.gupy.io/).
 
 **Access the [ANP Fuel Sales ETL Test](https://github.com/raizen-analytics/data-engineering-test/blob/master/TEST.md).**
 
